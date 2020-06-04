@@ -5,16 +5,6 @@
         /*margin-bottom: 15px;
     }*/
 
-h1{
-  font-family: 'Cinzel Decorative', cursive;
-  color: white;
-  font-size: 3rem;
-  text-align: center;
-  text-shadow: 5px 5px 12px black;
-  flex: 5;
-  text-transform: uppercase;
-}
-/*
 nav {
   height: 50px;
   flex: 100%;
@@ -43,4 +33,4 @@ nav a, nav span {
   text-decoration: none;
   color: white;
 
-}*/
+}
