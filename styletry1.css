@@ -1,0 +1,62 @@
+/*.demo-content{
+        /*padding: 15px;
+        font-size: 18px;
+        background: #dbdfe5;
+        /*margin-bottom: 15px;
+    }*/
+/*html {
+  --text-color-normal: #0a244d;
+  --text-color-light: #8cabd9;
+}
+
+html[data-theme='dark'] {
+  --text-color-normal: hsl(210, 10%, 62%);
+  --text-color-light: hsl(210, 15%, 35%);
+  --text-color-richer: hsl(210, 50%, 72%);
+  --text-color-highlight: hsl(25, 70%, 45%);
+}
+*/
+h1
+{
+  font-family: 'Cinzel Decorative', cursive;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+  text-shadow: 5px 5px 12px black;
+  flex: 5;
+  text-transform: uppercase;
+}
+
+.nav nav-pills nav-justified a {
+  color: white;
+}
+/*
+nav {
+  height: 50px;
+  flex: 100%;
+  display: flex;
+}
+
+nav ul {
+  padding: 0;
+  list-style-type: none;
+  flex: 2;
+  display: flex;
+}
+
+nav li {
+  display: inline;
+  text-align: center;
+  flex: 1;
+}
+
+nav a, nav span {
+  display: inline-block;
+  font-size: 2rem;
+  height: 2rem;
+  line-height: 3.0;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: white;
+
+}*/
